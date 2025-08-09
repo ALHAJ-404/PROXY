@@ -1,3 +1,3 @@
-from ALEENA import menu
-menu()
+from ALEEN import meni
+meni()
 
